@@ -1,1 +1,1 @@
-# generadorNode
+# Generador de números pseudoaleatorios, tanto en el servidor como en los microcontroladores
